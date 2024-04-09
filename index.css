@@ -1,0 +1,190 @@
+.Nombre {
+    width: 100%;
+    height: 340px;
+    background: #42858C;
+    border-radius: 20px;
+}
+.Nombre .Contenido {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 20%;
+}
+.Nombre .Contenido .P1{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: 55px;
+    margin-bottom: 0;
+}
+.Nombre .Contenido .P2{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Nombre .Img{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    width: 173px;
+    height: 173px;
+    border-radius: 30%;
+    overflow: hidden;
+}
+.Nombre .Img img{
+    width: 173px;
+    height: 215px;
+}
+.Inf {
+    width: 90%;
+    height: auto;
+    background-color: #5DA399;
+    margin:2% auto;
+    padding: 20px; 
+    border-radius: 20px;
+}
+.Inf .Tituloseccion{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: white solid;
+}
+.Inf .tituloinfo{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.Inf .infoinfo{
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-bottom: 10px;
+}
+.Educacion {
+    width: 90%;
+    height: auto;
+    background-color: #5DA399;
+    margin:2% auto;
+    padding: 20px; 
+    border-radius: 20px;
+}
+.Educacion .Tituloseccion{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: white solid;
+}
+.Educacion .tituloinfo{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.Educacion .infoinfo{
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-bottom: 10px;
+}
+.Empleos {
+    width: 90%;
+    height: auto;
+    background-color: #5DA399;
+    margin:2% auto;
+    padding: 20px; 
+    border-radius: 20px;
+}
+.Empleos .Tituloseccion{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: white solid;
+}
+.Empleos .tituloinfo{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.Empleos .infoinfo{
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-bottom: 10px;
+}
+.Proyectos {
+    width: 90%;
+    height: auto;
+    background-color: #5DA399;
+    margin:2% auto;
+    padding: 20px; 
+    border-radius: 20px;
+}
+.Proyectos .Tituloseccion{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: white solid;
+}
+.Proyectos .tituloinfo{
+    color: white;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.Proyectos .infoinfo{
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-bottom: 10px;
+}
+form input, form button {
+    margin-top: 10px;
+}
+.Send {
+    width: 90%;
+    height: auto;
+    background-color: #5DA399;
+    margin:2% auto;
+    padding: 20px; 
+    border-radius: 20px;
+}
+.Send .Tittle{
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-bottom: 10px;
+}
